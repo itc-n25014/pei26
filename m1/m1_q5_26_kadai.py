@@ -10,4 +10,4 @@ for i in range(1, 6):
     result_list.append(a)
     a = a * 2
     # 実行結果を表示
-    print(result_list)
+print(result_list)
